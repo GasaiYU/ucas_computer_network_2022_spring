@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rtable.h": "c",
+        "ether.h": "c",
+        "string.h": "c"
+    }
+}

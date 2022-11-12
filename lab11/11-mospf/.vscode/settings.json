@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mospf_database.h": "c",
+        "mospf_daemon.h": "c",
+        "mospf_proto.h": "c"
+    }
+}
